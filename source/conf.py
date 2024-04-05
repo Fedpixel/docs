@@ -16,6 +16,7 @@ release = '1'
 
 extensions = [
     'sphinx.ext.duration',
+    'sphinx_copybutton',
 ]
 
 templates_path = ['_templates']
