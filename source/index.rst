@@ -3,3 +3,4 @@ Contents
 
 .. toctree::
    nginx
+   cisco
